@@ -22,7 +22,7 @@ To install it, you could use:
 `pip3 install matplotlib`
 `pip3 install tkinter`
 
-***Note: Versions may vary depending on your python version, so I suggest you to use python3 to avoid any kind of problems. If you
+***Note: Commands may vary depending on your python version, so I suggest you to use python3 to avoid any kind of problems. If you
 use anaconda environments, you should go ahead and search for these installing commands in order to make it work***
 
 ### References
