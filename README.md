@@ -23,9 +23,9 @@ To install it, you could use:
 `pip3 install tkinter`
 
 ***Note: Commands may vary depending on your python version, so I suggest you to use python3 to avoid any kind of problems. If you
-use anaconda environments, you should go ahead and search for these installing commands in order to make it work***
+use anaconda environments, you should go ahead and search for these installing commands in order to make it work.***
 
 ### References
 Some of the resources used to achieve this program were thanks to ```@github/balajisrinivas @sentdex @Jose Portilla from Udemy Academy```
 
-Without these three people it would not be possible to understand and perform machine learning using python
+Without these three people it would not be possible to understand and perform machine learning using python.
