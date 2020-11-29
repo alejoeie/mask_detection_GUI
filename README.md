@@ -5,21 +5,21 @@ own business for protecting you and others against COVID-19.
 ## Requirements
 For this you need to previously install:
 ```
-*tensorflow
-*numpy
-*imutils
-*openCV
-*matplotlib
-*tkinter
+tensorflow
+numpy
+imutils
+openCV
+matplotlib
+tkinter
 ```
 
 To install it, you could use:
--pip3 install tensorflow
--pip3 install numpy
--pip3 install imutils
--pip3 install opencv-python
--pip3 install matplotlib
--pip3 install tkinter
+`pip3 install tensorflow`
+`pip3 install numpy`
+`pip3 install imutils`
+`pip3 install opencv-python`
+`pip3 install matplotlib`
+`pip3 install tkinter`
 
 ***Note: Versions may vary depending on your python version, so I suggest you to use python3 to avoid any kind of problems. If you
 use anaconda environments, you should go ahead and search for these installing commands in order to make it work***
