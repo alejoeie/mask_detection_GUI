@@ -4,13 +4,14 @@ predict a facial mask. This could be applied in banks, markets, public transport
 own business for protecting you and others against COVID-19.
 ## Requirements
 For this you need to previously install:
+'''
 *tensorflow
 *numpy
 *imutils
 *openCV
 *matplotlib
 *tkinter
-
+'''
 
 To install it, you could use:
 -pip3 install tensorflow
