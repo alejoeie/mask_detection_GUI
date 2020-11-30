@@ -25,6 +25,15 @@ To install it, you could use:
 ***Note: Commands may vary depending on your python version, so I suggest you to use python3 to avoid any kind of problems. If you
 use anaconda environments, you should go ahead and search for these installing commands in order to make it work.***
 
+##Virtualbox important aspects
+If you use virtualbox for accessing your OS, I highly recommend
+to install virtualbox Extensions for accessing to your camera
+on it. Otherwise your app will not work!
+
+***I used GNU/Linux to create the program. One important aspect is
+to change the source camera in the section where it opens the camera.
+Otherwise you could get some errors as well.***
+
 ### References
 Some of the resources used to achieve this program were thanks to ```@github/balajisrinivas @sentdex @Jose Portilla from Udemy Academy```
 
