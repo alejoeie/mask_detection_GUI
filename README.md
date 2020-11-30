@@ -28,4 +28,4 @@ use anaconda environments, you should go ahead and search for these installing c
 ### References
 Some of the resources used to achieve this program were thanks to ```@github/balajisrinivas @sentdex @Jose Portilla from Udemy Academy```
 
-Without these three people it would not be possible to understand and perform machine learning using python.
+Without these people it would not be possible to understand and perform machine learning using python.
